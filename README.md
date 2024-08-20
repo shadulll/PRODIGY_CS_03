@@ -1,15 +1,18 @@
 How to Use:
 
 Run the Script: Execute the script in your Python environment.
+
 Enter the Password: When prompted, type your password and press Enter
 
 Output
 If you input "P@ssw0rd!", the output would be:
 
 Password Strength: Very Strong
+
 For a weaker password like "password", it might output:
 
 Password Strength: Weak
+
 Feedback:
 - Include at least one uppercase letter.
 - Include at least one digit.
